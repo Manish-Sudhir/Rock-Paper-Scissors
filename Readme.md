@@ -1,6 +1,6 @@
 # Computer Vision Rock-Paper-Scissors Game
 
-![Rock-Paper-Scissors Game](https://github.com/Manish-Sudhir/Rock-Paper-Scissors/blob/main/rps.png?raw=true)
+![Rock-Paper-Scissors Game](https://github.com/Manish-Sudhir/Rock-Paper-Scissors/blob/main/rps.png?raw=true "Manual game example")
 
 ## Overview
 
